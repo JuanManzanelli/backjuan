@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Adidas",
+      "price": 1500
+    },
+    {
+      "id": 2,
+      "name": "Nike",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "name": "Puma",
+      "price": 3500
+    }
+  ]
